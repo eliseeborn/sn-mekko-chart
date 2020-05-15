@@ -1800,10 +1800,10 @@
     fs-extra "9.0.0"
     inquirer "7.1.0"
 
-"@nebula.js/cli-serve@0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@nebula.js/cli-serve/-/cli-serve-0.6.0.tgz#ced6b69e75e622c067d8d0c0e9b0a79df8490881"
-  integrity sha512-NTVrmR9k1Xb411n7RaOV+pm8AexAAEffrE/W1ptkgSnQSWrBg22Aw02DXheQ3nTXe7Zq73PKDTM4Afe+RQGE3Q==
+"@nebula.js/cli-serve@0.6.1":
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@nebula.js/cli-serve/-/cli-serve-0.6.1.tgz#a113a884274be8c6b1fdc932d8d55707087a44ec"
+  integrity sha512-ZxSIUIvJhPG9s6Qde39MOQbA1DrX5DIuzGlkAwnjT2iqhCGjhja3TSaFxPMwsEsU1XcgX8Gs4uHm5ipiqWuefw==
   dependencies:
     "@nebula.js/cli-build" "0.6.0"
     "@nebula.js/snapshooter" "0.6.0"
@@ -1839,10 +1839,10 @@
   dependencies:
     puppeteer "2.1.1"
 
-"@nebula.js/stardust@0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@nebula.js/stardust/-/stardust-0.6.0.tgz#a92c75dde6a73cf80afb157d1df600a2ebedd59c"
-  integrity sha512-b4aaV9t5m40DzFnGGH8JtRtxme2BI6ex1joiQV0raHns79lOPQ671/paqio74/d81WK9LpS2sdk3mIhZYdGpOw==
+"@nebula.js/stardust@0.6.1":
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@nebula.js/stardust/-/stardust-0.6.1.tgz#fecf20a604b7fe7695c113daeefb9d200581cfed"
+  integrity sha512-3Pk+LpbWv4YYdyYd4IThFacPv32xdZGWLs4IXI4s2b6YIcLH2uo7akVdF5nXaCc6CDmFEtjidkvLc3HimvHdYg==
 
 "@nodelib/fs.scandir@2.1.1":
   version "2.1.1"
@@ -7434,15 +7434,15 @@ phin@^2.9.1:
   version "2.9.3"
   resolved "https://registry.yarnpkg.com/phin/-/phin-2.9.3.tgz#f9b6ac10a035636fb65dfc576aaaa17b8743125c"
 
-picasso-plugin-q@0.30.0:
-  version "0.30.0"
-  resolved "https://registry.yarnpkg.com/picasso-plugin-q/-/picasso-plugin-q-0.30.0.tgz#9fe0cc358ca31eec9a59a0fee067f37eadf4940b"
-  integrity sha512-46IgJRdhbb0ufNRBaBT6/shx1lZLOjJOP2l0MjLhKunLUC5F9yFwgFjBadTyBONAWrmofiiDDP9iN8C8uvs1dQ==
+picasso-plugin-q@0.31.0:
+  version "0.31.0"
+  resolved "https://registry.yarnpkg.com/picasso-plugin-q/-/picasso-plugin-q-0.31.0.tgz#0d9d3ef582ae1bcacf4a74f64e6fcae585ab6d5e"
+  integrity sha512-RbWxTwd9iSoXIsqwIJKHVw1xd61FcMpxeMiTqLh5qhoV1Wq1PVp38B2V4LweMK8D4odS4vKkRpCbtmNsCfZx5w==
 
-picasso.js@0.30.0:
-  version "0.30.0"
-  resolved "https://registry.yarnpkg.com/picasso.js/-/picasso.js-0.30.0.tgz#c029ea4683a2e6a63b9d838c19ece4dc74d41e99"
-  integrity sha512-cdFEAGB6fJFcgdAmACQJoEnEp/DqY6p3vZFvY+K6ljMiMZni3ANE+h5CDxVqAlIkOH7r1emRNZWE7QcaBVJv8g==
+picasso.js@0.31.0:
+  version "0.31.0"
+  resolved "https://registry.yarnpkg.com/picasso.js/-/picasso.js-0.31.0.tgz#999ff804fc0aca71ba9fe6da18e382b6ce7d80a8"
+  integrity sha512-p9TcvsqQJE3V/JjJtoLDr7Zs9YRzavzcmV3YhqANLvHxN7bjpTXhmPNMsrWXdxgOv/VcKoc+o5FBlVVmfmbJaQ==
 
 picomatch@^2.0.4, picomatch@^2.0.5:
   version "2.0.7"
